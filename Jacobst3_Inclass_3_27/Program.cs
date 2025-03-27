@@ -1,7 +1,7 @@
 ﻿/*File Name: Jacobstt3_Inclass_3_27
 
 *Name: Andrew Luce Miles Jacobson
-*email:  luceag@mail.uc.edu jacobsst3@mail.uc.edu
+*email:  luceag@mail.uc.edu jacobsst3@mail.uc.edu 
 *Assignment Number: Assignment in class 3/27
 *Due Date: 3/27/2025
 *Course #/Section:   IS3050001
